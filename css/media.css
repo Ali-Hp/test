@@ -1,0 +1,8 @@
+@media (max-width:768px) {
+    .box {
+        width: 290px;
+    }
+    .box .info p {
+        font-size: 15px;
+    }
+}
